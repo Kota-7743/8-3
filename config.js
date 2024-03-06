@@ -5,6 +5,6 @@ const titleCard = 'Tặng người ấy';
 const contentCard = "Happy Women's Day,chúc bé ngày càng xinh đẹp,học giỏi và luôn hạnh phúc.Anh muốn nói với bé là 'Có bệnh lây thì phải yếu, Nên là yêu em thì phải lấy'";
 
 
-const giftImage = 'file:///C:/Users/NT%20Computer/OneDrive/Documents/Python/bhjk.py/ii.jpg';
+const giftImage = 'ii.jpg';
 
 const giftImageBase64 = " " + base64;
